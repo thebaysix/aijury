@@ -1,1 +1,3 @@
 # aijury
+
+Chat with Mistral
